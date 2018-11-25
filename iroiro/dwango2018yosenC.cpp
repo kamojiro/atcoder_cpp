@@ -1,0 +1,1 @@
+/home/ochir/python/atcoder/company/dwango/5/C5.cpp
